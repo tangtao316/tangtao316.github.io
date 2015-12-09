@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+    
+    
+  <url>
+    <loc>http://tangtao.me/2015/12/08/my-first-post/</loc>
+    <lastmod>2015-12-08T11:22:54.000Z</lastmod>
+    <data>
+        <display>
+        <title>my first post</title>
+        <pubTime>2015-12-08T11:22:54.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://tangtao.me/2015/12/08/hello-world/</loc>
+    <lastmod>2015-12-08T10:32:15.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2015-12-08T10:32:15.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
