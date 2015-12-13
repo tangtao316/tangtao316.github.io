@@ -4,8 +4,52 @@
 
     
   <url>
+    <loc>http://tangtao.me/2015/12/09/15%E4%B8%AA%E5%BF%85%E7%9F%A5%E7%9A%84Android%E5%BC%80%E5%8F%91%E8%80%85%E9%80%89%E9%A1%B9/</loc>
+    <lastmod>2015-12-13T10:59:19.000Z</lastmod>
+    <data>
+        <display>
+        <title>Android面试经验分享</title>
+        <pubTime>2015-12-09T10:50:37.000Z</pubTime>
+        
+        <tag>Android</tag>
+         
+        <tag>面试</tag>
+         
+         
+           
+             
+              <breadCrumb title="Android" url="http://tangtao.me/categories/Android/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://tangtao.me/2015/12/09/Android%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/</loc>
+    <lastmod>2015-12-13T10:57:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>Android面试经验分享</title>
+        <pubTime>2015-12-09T10:50:37.000Z</pubTime>
+        
+        <tag>Android</tag>
+         
+        <tag>面试</tag>
+         
+         
+           
+             
+              <breadCrumb title="Android" url="http://tangtao.me/categories/Android/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://tangtao.me/2015/12/13/%E8%87%B4%E7%A8%8B%E5%BA%8F%E5%91%98%E7%88%B8%E7%88%B8/</loc>
-    <lastmod>2015-12-13T09:48:36.000Z</lastmod>
+    <lastmod>2015-12-13T10:50:17.000Z</lastmod>
     <data>
         <display>
         <title>致程序员爸爸</title>
@@ -25,7 +69,7 @@
     
   <url>
     <loc>http://tangtao.me/2015/12/13/%E5%A6%82%E4%BD%95%E5%A7%BF%E5%8A%BF%E6%AD%A3%E7%A1%AE%E5%9C%B0%E5%BC%80%E5%A7%8B%E4%B8%80%E4%B8%AAAndroid%E9%A1%B9%E7%9B%AE/</loc>
-    <lastmod>2015-12-13T09:48:07.000Z</lastmod>
+    <lastmod>2015-12-13T10:48:52.000Z</lastmod>
     <data>
         <display>
         <title>如何姿势正确地开始一个Android项目</title>
@@ -45,7 +89,7 @@
     
   <url>
     <loc>http://tangtao.me/2015/12/13/TwinPrime--%E7%94%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BC%98%E5%8C%96Android%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2015-12-13T09:47:39.000Z</lastmod>
+    <lastmod>2015-12-13T10:47:54.000Z</lastmod>
     <data>
         <display>
         <title>TwinPrime:用机器学习优化Android网络</title>
@@ -67,7 +111,7 @@
     
   <url>
     <loc>http://tangtao.me/2015/12/13/Scalpel--Jake%E5%A4%A7%E7%A5%9E%E7%9A%84%E7%AC%AC%E4%B8%89%E6%8A%8A%E5%88%80/</loc>
-    <lastmod>2015-12-13T09:47:12.000Z</lastmod>
+    <lastmod>2015-12-13T10:44:52.000Z</lastmod>
     <data>
         <display>
         <title>Scalpel:Jake大神的第三把刀</title>
@@ -89,7 +133,7 @@
     
   <url>
     <loc>http://tangtao.me/2015/12/13/AppSee--%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AB%E5%AE%83%E7%A5%9E%E5%99%A8%EF%BC%9F/</loc>
-    <lastmod>2015-12-13T09:46:36.000Z</lastmod>
+    <lastmod>2015-12-13T10:41:15.000Z</lastmod>
     <data>
         <display>
         <title>AppSee:为什么叫它神器？</title>
@@ -98,47 +142,6 @@
         <tag>Android</tag>
          
         <tag>工具</tag>
-         
-         
-           
-             
-              <breadCrumb title="Android" url="http://tangtao.me/categories/Android/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://tangtao.me/2015/12/09/Android%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/</loc>
-    <lastmod>2015-12-13T09:46:03.000Z</lastmod>
-    <data>
-        <display>
-        <title>Android面试经验分享</title>
-        <pubTime>2015-12-09T10:50:37.000Z</pubTime>
-        
-        <tag>Android</tag>
-         
-        <tag>面试</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://tangtao.me/2015/12/13/15%E4%B8%AA%E5%BF%85%E7%9F%A5%E7%9A%84Android%E5%BC%80%E5%8F%91%E8%80%85%E9%80%89%E9%A1%B9/</loc>
-    <lastmod>2015-12-13T09:39:06.000Z</lastmod>
-    <data>
-        <display>
-        <title>15个必知的Android开发者选项</title>
-        <pubTime>2015-12-13T09:08:37.000Z</pubTime>
-        
-        <tag>Android</tag>
-         
-        <tag>效率</tag>
          
          
            
