@@ -4,7 +4,7 @@
   <subtitle><![CDATA[关注Android最佳实践]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://tangtao.me/"/>
-  <updated>2015-12-13T08:59:43.000Z</updated>
+  <updated>2015-12-13T09:01:49.000Z</updated>
   <id>http://tangtao.me/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://tangtao.me/2015/12/13/15%E4%B8%AA%E5%BF%85%E7%9F%A5%E7%9A%84Android%E5%BC%80%E5%8F%91%E8%80%85%E9%80%89%E9%A1%B9/"/>
     <id>http://tangtao.me/2015/12/13/15个必知的Android开发者选项/</id>
     <published>2015-12-13T08:50:37.000Z</published>
-    <updated>2015-12-13T08:59:43.000Z</updated>
+    <updated>2015-12-13T09:01:49.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://mmbiz.qpic.cn/mmbiz/e4JibCgzXv6RLSg7TLriaB1aqrmQP4atbOrFEOZMbdQxb53ZeSiaImG58SgXY3bhqmDt11220KO0SSoaZZpzt1HtQ/640?wx_fmt=jpeg&amp;wxfrom=5" alt=""><br>Android开发者选项，看起来很简单的事情，其实很多同学对它了解得不够，Google用心良苦得为我们设计了这么多小开关都是有它的作用的，今天也花了点时间，过了一遍全部的30多个开关，从中整理出15个对日常Android开发比较有帮助的选项。</p>
 <p>需要指出的是，不同的ROM对开发者选项的支持不一样，精简掉一些很正常，我下面提到的都是官方支持的功能，当然不同的官方版本支持程度也不一样，你手机上找不到也别奇怪。</p>
 <p>抱歉这里不介绍开发者选项在哪怎么开启之类的问题。</p>
@@ -70,6 +70,8 @@
       <category term="Android" scheme="http://tangtao.me/tags/Android/"/>
     
       <category term="效率" scheme="http://tangtao.me/tags/%E6%95%88%E7%8E%87/"/>
+    
+      <category term="Android" scheme="http://tangtao.me/categories/Android/"/>
     
   </entry>
   
