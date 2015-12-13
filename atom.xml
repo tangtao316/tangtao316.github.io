@@ -4,7 +4,7 @@
   <subtitle><![CDATA[关注Android最佳实践]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://tangtao.me/"/>
-  <updated>2015-12-13T10:50:17.000Z</updated>
+  <updated>2015-12-13T11:07:57.000Z</updated>
   <id>http://tangtao.me/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://tangtao.me/2015/12/13/%E8%87%B4%E7%A8%8B%E5%BA%8F%E5%91%98%E7%88%B8%E7%88%B8/"/>
     <id>http://tangtao.me/2015/12/13/致程序员爸爸/</id>
     <published>2015-12-13T09:25:37.000Z</published>
-    <updated>2015-12-13T10:50:17.000Z</updated>
+    <updated>2015-12-13T11:07:57.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://7xp5j9.com1.z0.glb.clouddn.com/to_devs.jpg" alt="扎克伯格与家人"><br>认识我的人都知道我有一个非常可爱的女儿，在女儿出生成长的这几年，更多是她的妈妈在独自照顾，作为这个家庭一员的程序员出身的爸爸，一方面对家庭抱有歉意，另一方面，却越来越有一种无力感，对宝宝，对家庭，对未来。</p>
 <p>我对女儿最大的期望是她能健康快乐的成长，她的安全问题一直是我最重视的。从小到大，在各种能力范围内给她提供最安全的成长环境，家里各种危险物品都锁好，时刻注意危险的家具摆放，各种尖角贴上防撞条，防护措施一大堆，即便是这样还是出过几次不大不小的意外，每次都让我心惊不已。但总归只是一个小小的蜗居，考虑细致总能处理好。</p>
 <p>然而眨眼间她就长大了，要上幼儿园了，她的世界更大了，我和她妈妈不可能寸步不离，像以前那样小心照顾了，这开始让我感到焦虑：在幼儿园里有老师我尚且放心，但刚开始一段时间校车尚未开通，往返幼儿园的路上又开始担心，我甚至仔细分析过怎么走能尽量避开危险路段，减少交通事故发生的概率。我非常严肃地跟她妈妈解释每天少过一条马路，能降低多少危险发生的概率，然而她不爱听这些。</p>
@@ -30,7 +30,7 @@
 <p>这个世界也远比我们想象中的复杂，我们不是上帝，无法像控制代码世界一样，精确控制我们自己的生活。虽然代码写得越久，越容易产生一种我们可以的错觉。</p>
 <p>也许也有很多人跟我一样，偶尔迷失在代码与现实之中，控制欲延伸到生活里，不能忍受自己的命运有太多的不确定性。对于这样的朋友，除了劝大家“尽人事，听天命”之外，我只能多说一句与大家共勉：“别胡思乱想了，有空还是多敲敲代码吧”。</p>
 <hr>
-<p>我最近在运营一个微信公众号，主要关注Android最佳实践，最好用的工具与服务，大家有兴趣可以在微信里搜索“Android程序员” 或 搜索微信号 “AndroidTrending” 或扫描下方二维码关注我。<br><img src="http://mmbiz.qpic.cn/mmbiz/e4JibCgzXv6Syflwmh6iaUdrRgiaWLXebxo3BAbpY9DK4UXbNfOAsjJPqTubFs1DaBZhGyYDvJLwTykozuKVpNSXA/640?wx_fmt=jpeg&amp;wxfrom=5&amp;wx_lazy=1" alt="Android程序员"></p>
+<p>我最近在运营一个微信公众号，主要关注Android最佳实践，最好用的工具与服务，大家有兴趣可以在微信里搜索“Android程序员” 或 搜索微信号 “AndroidTrending” 或扫描下方二维码关注我。<br><img src="http://7xp5j9.com1.z0.glb.clouddn.com/qrcode_for_androidtrending_430.jpg" alt="Android程序员"></p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p><img src="http://7xp5j9.com1.z0.glb.clouddn.com/to_devs.jpg" alt="扎克伯格与家人"><br>认识我的人都知道我有一个非常可爱的女儿，在女儿出生成长的这几年，更多是她的妈妈在独自照顾，作为这个家庭一员的程序员出]]>
@@ -92,11 +92,11 @@
   </entry>
   
   <entry>
-    <title><![CDATA[Android面试经验分享]]></title>
+    <title><![CDATA[15个必知的Android开发者选项]]></title>
     <link href="http://tangtao.me/2015/12/13/15%E4%B8%AA%E5%BF%85%E7%9F%A5%E7%9A%84Android%E5%BC%80%E5%8F%91%E8%80%85%E9%80%89%E9%A1%B9/"/>
     <id>http://tangtao.me/2015/12/13/15个必知的Android开发者选项/</id>
     <published>2015-12-13T09:09:37.000Z</published>
-    <updated>2015-12-13T11:03:27.000Z</updated>
+    <updated>2015-12-13T11:06:49.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://7xp5j9.com1.z0.glb.clouddn.com/dev_option_0.jpg" alt=""><br>Android开发者选项，看起来很简单的事情，其实很多同学对它了解得不够，Google用心良苦得为我们设计了这么多小开关都是有它的作用的，今天也花了点时间，过了一遍全部的30多个开关，从中整理出15个对日常Android开发比较有帮助的选项。</p>
 <p>需要指出的是，不同的ROM对开发者选项的支持不一样，精简掉一些很正常，我下面提到的都是官方支持的功能，当然不同的官方版本支持程度也不一样，你手机上找不到也别奇怪。</p>
 <p>抱歉这里不介绍开发者选项在哪怎么开启之类的问题。</p>
